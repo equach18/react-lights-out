@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component: <Cell /> matches snapshot: isLit=false 1`] = `<DocumentFragment />`;
+
+exports[`Component: <Cell /> matches snapshot: isLit=true 1`] = `<DocumentFragment />`;
